@@ -1,0 +1,11 @@
+button {
+    display: block;
+}
+
+input {
+    text-align: right;
+}
+
+div {
+    font-family: monospace;
+}
